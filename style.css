@@ -24,3 +24,11 @@
     margin-top: 10px;
     margin-bottom: 30px;
 }
+#menu-dados {
+    background-color: #F9F9F9;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 50px;
+    text-align: left;
+}
