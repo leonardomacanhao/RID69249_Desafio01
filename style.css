@@ -1,0 +1,26 @@
+/* Estilo Global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+#menu-superior {
+    background-color: #303030;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 60px 5%;
+    text-align: left;
+}
+#titulo-menu-superior{
+    
+    margin-top: 30px;
+}
+#texto-menu-superior{
+    width: 1024px;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
